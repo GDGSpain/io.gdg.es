@@ -143,6 +143,7 @@ footerBlocks:
   title: "Links"
   links:
    - {link: "http://www.gdg.es/", text: "Spain"}
+   - {link: "http://www.gdg.es/", text: "GDG Spain"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contacts"
