@@ -7,3 +7,6 @@
   elements:
     - {name: "Betabeers", description: "Betabeers", link: "https://betabeers.com/", imageUrl: "betabeers.png"}
     - {name: "Madrid Android Developer Group", description: "Madrid Android Developer Group", link: "http://www.meetup.com/es-ES/madrid-android-dev-group/", imageUrl: "madg.png"}
+    - {name: "Golang UG Madrid", description: "Golang UG Madrid", link: "http://www.meetup.com/go-mad/", imageUrl: "go-mad.png"}
+    - {name: "AngularJS Madrid", description: "AngularJS Madrid", link: "http://www.meetup.com/es-ES/AngularJS_Madrid/", imageUrl: "angularjs-madrid.jpg"}
+    - {name: "Polymer Madrid", description: "Polymer Madrid", link: "http://www.meetup.com/es-ES/Madrid-Polymer-Group/", imageUrl: "polymer-madrid.jpg"}
