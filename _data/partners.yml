@@ -10,3 +10,6 @@
     - {name: "Golang UG Madrid", description: "Golang UG Madrid", link: "http://www.meetup.com/go-mad/", imageUrl: "go-mad.png"}
     - {name: "AngularJS Madrid", description: "AngularJS Madrid", link: "http://www.meetup.com/es-ES/AngularJS_Madrid/", imageUrl: "angularjs-madrid.jpg"}
     - {name: "Polymer Madrid", description: "Polymer Madrid", link: "http://www.meetup.com/es-ES/Madrid-Polymer-Group/", imageUrl: "polymer-madrid.jpg"}
+    - {name: "Madrid GUG", description: "Madrid GUG", link: "http://www.meetup.com/es-ES/madridjs/", imageUrl: "madridjs.jpeg"}
+    - {name: "MadridJS", description: "MadridJS", link: "http://www.madridgug.com/", imageUrl: "madgug.png"}
+    - {name: "madScalability", description: "madScalability", link: "http://www.meetup.com/es-ES/mad-scalability/", imageUrl: "madscalability.png"}
