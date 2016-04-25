@@ -13,3 +13,4 @@
     - {name: "Madrid GUG", description: "Madrid GUG", link: "http://www.meetup.com/es-ES/madridjs/", imageUrl: "madridjs.jpeg"}
     - {name: "MadridJS", description: "MadridJS", link: "http://www.madridgug.com/", imageUrl: "madgug.png"}
     - {name: "madScalability", description: "madScalability", link: "http://www.meetup.com/es-ES/mad-scalability/", imageUrl: "madscalability.png"}
+    - {name: "Agile-Spain", description: "Agile-Spain", link: "http://agile-spain.org/", imageUrl: "agile-spain.png"}
