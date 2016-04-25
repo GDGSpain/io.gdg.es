@@ -51,6 +51,7 @@ bottomNavigationLinks:
 rightNavigationButtons:
  - {link: "http://goo.gl/forms/skffji3RX1", text: "Ser ponente"}
  - {link: "http://goo.gl/forms/skffji3RX1", text: "Incluir comunidad"}
+ - {link: "http://io.gdg.es/#tickets", text: "Inscripción"}
 
 # Hero Block
 heroImage: "hero.jpg"
