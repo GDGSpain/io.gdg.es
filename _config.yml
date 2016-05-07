@@ -43,14 +43,12 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Noticias"}
-# - {permalink: "/schedule/", text: "Programa"}
-# - {permalink: "/speakers/", text: "Ponentes"}
+ - {permalink: "/schedule/", text: "Programa"}
+ - {permalink: "/speakers/", text: "Ponentes"}
  - {permalink: "/team/", text: "Organizadores"}
 bottomNavigationLinks:
- - {link: "http://goo.gl/forms/skffji3RX1", text: "Ser ponente"}
+ - {link: "http://io.gdg.es/#tickets", text: "Inscripción"}
 rightNavigationButtons:
- - {link: "http://goo.gl/forms/skffji3RX1", text: "Ser ponente"}
- - {link: "http://goo.gl/forms/skffji3RX1", text: "Incluir comunidad"}
  - {link: "http://io.gdg.es/#tickets", text: "Inscripción"}
 
 # Hero Block
@@ -60,7 +58,6 @@ eventDate: "18 Mayo 2016"
 typeoutTextValues: ''
 typeoutFallback: ""
 heroButtons:
- - {link: "http://goo.gl/forms/skffji3RX1", text: "Ser ponente"}
  - {permalink: "/#tickets", text: "Inscribirse"}
 
 # About Block
@@ -74,15 +71,15 @@ aboutBlock:
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "200", specialCharacter: "+", info: "asistentes", detail: "de todos los perfiles"}
- - {count: "12", specialCharacter: "+", info: "horas", detail: "de tecnologías Google"}
- - {count: "10", specialCharacter: "+", info: "ponentes", detail: "de distintas comunidades"}
+ - {count: "7", specialCharacter: "+", info: "horas", detail: "de tecnologías Google"}
+ - {count: "6", specialCharacter: "", info: "ponentes", detail: "de distintas comunidades"}
 
 # Latest News Block
 latestNewsTitle: "Últimas noticias"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 4
+rockstarSpeakersCount: 6
 rockstarSpeakersTitle: "Nuestros ponentes"
 rockstarSpeakersButtonText: "Ver todos los ponentes"
 

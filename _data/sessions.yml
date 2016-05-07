@@ -1,59 +1,89 @@
 -
   id: 307
   title: "Coffee Break"
-  place: "Hall"
+  place: "Cafetería"
   service: true
   description: "The best time to talk with speakers and attendees"
 -
+  id: 502
+  title: "Recepción & presentaciones, GDG Spain Team"
+  place: ""
+  service: true
+-
   id: 503
+  title: "Recepción & presentaciones de las comunidades"
+  place: ""
+  service: true
+-
+  id: 504
+  title: "¿Qué esperas del Google I/O 2016?, Mesa Redonda"
+  place: ""
+  service: true
+-
+  id: 505
+  title: "LIVE STREAMING"
+  place: ""
+  service: true
+-
+  id: 506
+  title: "Discusión + Pizza!"
+  place: ""
+  service: true
+-
+  id: 507
+  title: "Sorteos y wrapping-up!"
+  place: ""
+  service: true
+-
+  id: 508
   title: "Lunch Break"
-  place: "Dining room"
+  place: ""
   service: true
 -
   id: 001
-  title: "Material design: Visual style and imagery"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
-  subtype: workshop
-  speakers: [3, 6]
-  language: en
-  complexity: "Intermediate"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  title: "Cleaner code with Guava"
+  description: "Conseguir codigo legible no es facil, ahi es donde entra guava y las lambdas. Una vez conozcas los optionals, nuevas colecciones no incluidas en el JDK y los Iterables, no podras vivir sin ellos."
+  subtype: presentation
+  speakers: [3]
+  language: es
+  complexity: "Intermedia"
 -
   id: 002
-  title: "Building Cloud-powered wearable Apps"
-  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
-  subtype: presentation
-  speakers: [4, 5]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 003
-  title: "Android L Animation"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
+  title: "Developing Android apps with Java 8"
+  description: "Google has recently released a preview version of Android N, and brand new Java 8 features appeared around. They gave us a sneak peak about the future of Android development. In this talk we are going to showcase all the supported new language features up to date, detailing which ones are retrocompatible and which ones will just be available starting on API 24 (N). We will put our hands on a sample project which will use java 8 functionalities on its diffent layers, in order to make people think a little bit about how a new language can become handy for us to simplify our application code."
   subtype: presentation
   speakers: [4]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  language: es
+  complexity: "Intermedia"
+-
+  id: 003
+  title: "The art of notifications"
+  description: "Un componente que tienen en común prácticamente todas las aplicaciones Android es la capacidad de mostrar notificaciones al usuario. Aunque a muchos desarrolladores y product managers les parece trivial, es un componente vital que requiere del cuidado adecuado para llevarlas a cabo directamente.  En esta charla abordaremos algunos problemas comunes sobre la gestión de notificaciones, sobre todo desde producto y como generar una buena UX alrededor de éstas."
+  subtype: presentation
+  speakers: [5]
+  language: es
+  complexity: "Intermedia"
 -
   id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
+  title: "El valor de lo abierto: de software libre y datos"
+  description: "Charla sobre el valor del software libre: qué nos aporta, por qué debemos aportar y algunos aspectos interesantes (como comunidades que han nacido en torno a movimientos creados dentro del software libre, entre otros). "
+  subtype: presentation
   speakers: [6]
-  language: uk
-  complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  language: es
+  complexity: "Básico"
 -
   id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
+  title: "Introduction to Go"
+  description: "Go is an open source programming language that makes it easy to build simple, reliable, and efficient software. We will talk about the basics of the language and why is that makes it great."
+  subtype: presentation
   speakers: [7]
+  language: es
+  complexity: "Básico"
+-
+  id: 006
+  title: "Angular2 for Dart: verdades y mentiras"
+  description: "A estas alturas todos sabemos que una aplicación Angular 2 se puede escribir en TypeScript o JavaScript. Sin embargo, no es tan conocido que viene con soporte oficial para Dart. Y lo cierto es que las únicas aplicaciones de Google en producción con Angular2 vienen de la mano de Dart. AdWords o GreenTea ya lo utilizan. ¿Tiene sentido utilizar Angular2 con Dart? ¿Ventajas e inconvenientes? En esta charla veremos las diferencias entre Typescript y Dart, nos adentraremos en la creación de una aplicación Angular2 con Dart e intentaremos descubrir las verdades y mentiras que rodean este tema."
+  subtype: presentation
+  speakers: [8]
   language: en
-  complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  complexity: "Intermedia" 

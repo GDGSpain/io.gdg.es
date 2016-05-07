@@ -1,47 +1,56 @@
 -
-  id: 1
-  name: "Próximamente"
-#  surname: "Ostrowski"
-#  company: "Google Poland"
-#  title: "Developer Relations Program Manager"
-#  bio: "Dawid is true technology enthusiast, who loves to work in areas where humans and machines meet to create amazing new products and services. He is experienced program manager with strong technical background, who is able to establish priorities for complex projects and execute across multiple organizations, according to long-term objectives. Dawid has worked in Poland, USA, Germany, Belgium and The Netherlands and truly values diversity of international working environment. His most visible characteristics are individualization (when dealing directly with people), ideation&intellection (inexhaustible source of new concepts) and strong communication (experienced trainer, community manager). He is also an activator constantly impatient for action."
-  thumbnailUrl: speaker_anonymous.jpg
-  rockstar: true
-#  social:
-#    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
-
--
-  id: 2
-  name: "Próximamente"
-#  surname: "Ostrowski"
-#  company: "Google Poland"
-#  title: "Developer Relations Program Manager"
-#  bio: "Dawid is true technology enthusiast, who loves to work in areas where humans and machines meet to create amazing new products and services. He is experienced program manager with strong technical background, who is able to establish priorities for complex projects and execute across multiple organizations, according to long-term objectives. Dawid has worked in Poland, USA, Germany, Belgium and The Netherlands and truly values diversity of international working environment. His most visible characteristics are individualization (when dealing directly with people), ideation&intellection (inexhaustible source of new concepts) and strong communication (experienced trainer, community manager). He is also an activator constantly impatient for action."
-  thumbnailUrl: speaker_anonymous.jpg
-  rockstar: true
-#  social:
-#    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
-
--
   id: 3
-  name: "Próximamente"
-#  surname: "Ostrowski"
-#  company: "Google Poland"
-#  title: "Developer Relations Program Manager"
-#  bio: "Dawid is true technology enthusiast, who loves to work in areas where humans and machines meet to create amazing new products and services. He is experienced program manager with strong technical background, who is able to establish priorities for complex projects and execute across multiple organizations, according to long-term objectives. Dawid has worked in Poland, USA, Germany, Belgium and The Netherlands and truly values diversity of international working environment. His most visible characteristics are individualization (when dealing directly with people), ideation&intellection (inexhaustible source of new concepts) and strong communication (experienced trainer, community manager). He is also an activator constantly impatient for action."
-  thumbnailUrl: speaker_anonymous.jpg
+  name: "Alexandru"
+  surname: "Simonescu"
+  company: ""
+  title: ""
+  bio: "Mente curiosa by default. No hay dia que no aprenda algo nuevo o me supere. Desarrollador Android en el trabajo y en casa."
+  thumbnailUrl: alexandru-simonescu.jpg
   rockstar: true
-#  social:
-#    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
-
 -
   id: 4
-  name: "Próximamente"
-#  surname: "Ostrowski"
-#  company: "Google Poland"
-#  title: "Developer Relations Program Manager"
-#  bio: "Dawid is true technology enthusiast, who loves to work in areas where humans and machines meet to create amazing new products and services. He is experienced program manager with strong technical background, who is able to establish priorities for complex projects and execute across multiple organizations, according to long-term objectives. Dawid has worked in Poland, USA, Germany, Belgium and The Netherlands and truly values diversity of international working environment. His most visible characteristics are individualization (when dealing directly with people), ideation&intellection (inexhaustible source of new concepts) and strong communication (experienced trainer, community manager). He is also an activator constantly impatient for action."
-  thumbnailUrl: speaker_anonymous.jpg
+  name: "Jorge"
+  surname: " Castillo Pérez"
+  company: ""
+  title: ""
+  bio: 'Jorge Castillo is a spanish experienced Android develeoper currently working as an Android Engineer at Jobandtalent. Its main work is focused on Open Source projects (https://github.com/JorgeCastilloPrz) about custom views, annotation processors, architecture, and anything relateed to Android development. He was speaker in some events last year, like the three Andatour ones (DevFest Córdoba, DevFest Jaén and DevFest Granada). He is going to attend the Cáceres ExFest 2016 (http://exfest.es/) where he will be one of the speakers in a highly anticipated event.'
+  thumbnailUrl: jorge-castillo.jpg
   rockstar: true
-#  social:
-#    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+-
+  id: 5
+  name: "Saúl"
+  surname: "Díaz González"
+  company: ""
+  title: ""
+  bio: "Saúl Díaz lleva desarrollando Android desde el 2010 y actualmente lleva la app de Chicisimo, una de las mejores apps de 2015. Anteriormente ha trabajado como Android Lead en Fever y como desarrollador Android en Tuenti. Además es un miembro activo de la comunidad, ex-coordinador de Android Startup, el primer grupo de desarrolladores Android de la Comunidad de Madrid."
+  thumbnailUrl: saul.jpg
+  rockstar: true
+-
+  id: 6
+  name: "Israel"
+  surname: "Blancas Álvarez"
+  company: ""
+  title: ""
+  bio: "De Granada, amante del software libre. Me encantan los eventos relacionados con la tecnología, sobre todo los hackathones. Organizador de GDG Granada."
+  thumbnailUrl: iblancasa.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107621838547829286968/"}
+-
+  id: 7
+  name: "Miguel"
+  surname: "Molina"
+  company: ""
+  title: ""
+  bio: "Full stack developer at source{d}. Passionate about Go, functional programming and frontend development."
+  thumbnailUrl: miguel.jpg
+  rockstar: true
+-
+  id: 8
+  name: "Rafael"
+  surname: "Bermúdez Míguez"
+  company: ""
+  title: ""
+  bio: "########## Hoja de personaje ########## • Nombre: Rafael Bermúdez Míguez (@rafbermudez) • Raza: Gallega • Alineamiento: Caótico Soñador • Especialización: Multiclase • Historia: Programador en UDC y consultoría, director técnico en Grupo Aluman, director de desarrollo en Yump, I+D+i en Otogami, Arquitecto de Softare en ETS. Actualmente CPO en @HomeSelect_ . • Logros: Ponente en diversos saraos (codemotion, techfest, pam, gpul, gul,...). Asistente ocasional en 35 grupos (y vive para contarlo) "
+  thumbnailUrl: rafael.jpg
+  rockstar: true
