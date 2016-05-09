@@ -50,7 +50,7 @@
 -
   id: 002
   title: "Developing Android apps with Java 8"
-  description: "Google has recently released a preview version of Android N, and brand new Java 8 features appeared around. They gave us a sneak peak about the future of Android development. In this talk we are going to showcase all the supported new language features up to date, detailing which ones are retrocompatible and which ones will just be available starting on API 24 (N). We will put our hands on a sample project which will use java 8 functionalities on its diffent layers, in order to make people think a little bit about how a new language can become handy for us to simplify our application code."
+  description: "We will put our hands on a sample project which will use java 8 functionalities on its diffent layers, in order to make people think a little bit about how a new language can become handy for us to simplify our application code."
   subtype: presentation
   speakers: [4]
   language: es
@@ -85,5 +85,5 @@
   description: "A estas alturas todos sabemos que una aplicación Angular 2 se puede escribir en TypeScript o JavaScript. Sin embargo, no es tan conocido que viene con soporte oficial para Dart. Y lo cierto es que las únicas aplicaciones de Google en producción con Angular2 vienen de la mano de Dart. AdWords o GreenTea ya lo utilizan. ¿Tiene sentido utilizar Angular2 con Dart? ¿Ventajas e inconvenientes? En esta charla veremos las diferencias entre Typescript y Dart, nos adentraremos en la creación de una aplicación Angular2 con Dart e intentaremos descubrir las verdades y mentiras que rodean este tema."
   subtype: presentation
   speakers: [8]
-  language: en
-  complexity: "Intermedia" 
+  language: es
+  complexity: "Intermedia"
