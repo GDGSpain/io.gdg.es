@@ -2,7 +2,7 @@
   id: 3
   name: "Alexandru"
   surname: "Simonescu"
-  company: ""
+  company: "Milanuncios"
   title: ""
   bio: "Mente curiosa by default. No hay dia que no aprenda algo nuevo o me supere. Desarrollador Android en el trabajo y en casa."
   thumbnailUrl: alexandru-simonescu.jpg
@@ -11,7 +11,7 @@
   id: 4
   name: "Jorge"
   surname: " Castillo Pérez"
-  company: ""
+  company: "Jobandtalent"
   title: ""
   bio: 'Jorge Castillo is a spanish experienced Android develeoper currently working as an Android Engineer at Jobandtalent. Its main work is focused on Open Source projects (https://github.com/JorgeCastilloPrz) about custom views, annotation processors, architecture, and anything relateed to Android development. He was speaker in some events last year, like the three Andatour ones (DevFest Córdoba, DevFest Jaén and DevFest Granada). He is going to attend the Cáceres ExFest 2016 (http://exfest.es/) where he will be one of the speakers in a highly anticipated event.'
   thumbnailUrl: jorge-castillo.jpg
@@ -20,7 +20,7 @@
   id: 5
   name: "Saúl"
   surname: "Díaz González"
-  company: ""
+  company: "Chicisimo"
   title: ""
   bio: "Saúl Díaz lleva desarrollando Android desde el 2010 y actualmente lleva la app de Chicisimo, una de las mejores apps de 2015. Anteriormente ha trabajado como Android Lead en Fever y como desarrollador Android en Tuenti. Además es un miembro activo de la comunidad, ex-coordinador de Android Startup, el primer grupo de desarrolladores Android de la Comunidad de Madrid."
   thumbnailUrl: saul.jpg
@@ -40,7 +40,7 @@
   id: 7
   name: "Miguel"
   surname: "Molina"
-  company: ""
+  company: "source{d}"
   title: ""
   bio: "Full stack developer at source{d}. Passionate about Go, functional programming and frontend development."
   thumbnailUrl: miguel.jpg
