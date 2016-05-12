@@ -49,5 +49,3 @@ Inscripción [aquí](http://www.meetup.com/es-ES/GDGMadrid/events/230530091/) (h
 21.00h: Discusión + Pizza!
 
 22.00h: ¡Sorteos y despedida!
-
-[Descargar en PDF](https://drive.google.com/file/d/0B4jBDP3Fq44ZUUpudXItT1pqeHM/view)
